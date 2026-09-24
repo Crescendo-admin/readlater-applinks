@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "W2A38UAS2Q.com.crescendo.yomo",
+        "paths": ["/email-confirmed", "/email-confirmed/*", "/reset-password", "/reset-password/*"]
+      }
+    ]
+  }
+}
